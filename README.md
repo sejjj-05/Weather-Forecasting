@@ -1,4 +1,5 @@
-**WEATHER FORECASTING APP**
+**WEATHER FORECASTING APP -** 
+
 Developed an application that provides the weather details such as temperature, humidity, precipitation, etc according to the city mentioned by the user.
 
 Follow the rules below and enjoy the app!
